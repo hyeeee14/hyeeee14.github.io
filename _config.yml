@@ -14,9 +14,11 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Hyerim Han # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: 📘B.S. Department of Electronic and IT Media Engineering, SeoulTech <br/>
+        📘Master's Degree 2nd semester in Defense AI Applications, SeoulTech
+        # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
