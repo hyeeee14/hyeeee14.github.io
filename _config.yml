@@ -72,3 +72,8 @@ compress_html:
 
 sass:
   style:               compressed
+
+#추가
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
