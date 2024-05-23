@@ -3,7 +3,8 @@
 
 ## hyeeee14's Blog
 Welcome! 240523~ing
-[github bolg](hyeeee14.github.io) 
+
+[github blog] : hyeeee14.github.io
 
 
 # Hydejack
