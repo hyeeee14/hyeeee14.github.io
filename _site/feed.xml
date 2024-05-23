@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Hyerim Han</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-05-24T00:02:55+08:00</updated>
+  <updated>2024-05-24T00:03:00+08:00</updated>
   <author>
     <name>Hyerim Han</name>
     <uri>http://localhost:4000/</uri>
@@ -88,8 +88,6 @@ Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and th
 
   
     
-    <category term="Blogging" />
-    
     <category term="Tutorial" />
     
   
@@ -113,8 +111,6 @@ Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and th
     </author>
 
   
-    
-    <category term="Blogging" />
     
     <category term="Tutorial" />
     
@@ -144,9 +140,7 @@ Create a new file named YYYY-MM-DD-TITLE.EXTENSION and put it in the _posts of t
 
   
     
-    <category term="Blogging" />
-    
-    <category term="Demo" />
+    <category term="Tutorial" />
     
   
 
