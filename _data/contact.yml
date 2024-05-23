@@ -3,14 +3,21 @@
 - type: github
   icon: "fab fa-github"
   url: 'https://github.com/hyeeee14'
+  noblank: true
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
-  noblank: true # open link in current tab
+#- type: twitter
+#  icon: "fa-brands fa-x-twitter"
+#  noblank: true # open link in current tab
+
+- type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/hanhyerim/'                  # Fill with your Linkedin homepage
+  noblank: true
 
 - type: email
   icon: "fas fa-envelope"
   url:  'hanhyerim.seoultech.ac.kr'
+  noblank: true
 
 #- type: rss
 #  icon: "fas fa-rss"
