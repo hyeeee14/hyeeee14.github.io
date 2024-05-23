@@ -4,7 +4,20 @@
   <!-- markdownlint-disable-next-line -->
   # Chirpy Jekyll Theme
 
+<<<<<<< HEAD
   A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+=======
+
+## hyeeee14's Blog
+Welcome! 240523~ing
+
+[github blog]
+
+[github blog]: https://hyeeee14.github.io
+
+
+# Hydejack
+>>>>>>> aed8a460f3c5f12a1a32697e7489dabd9c0a9d87
 
   [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?color=brightgreen)][gem]&nbsp;
   [![CI](https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml/badge.svg?branch=master&event=push)][ci]&nbsp;
