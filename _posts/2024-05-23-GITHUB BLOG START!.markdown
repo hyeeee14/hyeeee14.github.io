@@ -3,7 +3,7 @@ layout: post
 title:  "GITHUB BLOG START!"
 author: Hyerim Han
 date:   2024-05-23 21:09:57 +0900
-categories: [Soliloquy]
+categories: [Tutorial]
 ---
 
 안녕하세요. 제 첫 깃허브 블로그 입니다아 <br>
