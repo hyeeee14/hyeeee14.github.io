@@ -20,6 +20,8 @@
     "lint:scss": "stylelint _sass/**/*.scss",
     "lint:fix:scss": "npm run lint:scss -- --fix",
     "test": "npm run lint:scss"
+    "deploy": "gh-pages -d build"
+    "prepare": "husky"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.8",
