@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://hyeeee14.github.io/https://hyeeee14.github.io/sitemap.xml
